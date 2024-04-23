@@ -24,10 +24,7 @@ public class Main {
 
         String url_completo = endereco_api + chave_api + "/pair";
 
-
         Scanner leitura = new Scanner(System.in);
-
-
 
         String[][] matriz = new String[6][4];
         menuPrincipal = """
