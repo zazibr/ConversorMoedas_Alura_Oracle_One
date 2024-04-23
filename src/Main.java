@@ -112,12 +112,6 @@ public class Main {
 
 
             if (opcaoMenu < matriz.length ) {
-//                System.out.println("\n******\nSerá convertido para \n" +
-//                        opcaoMenu + ") de "+
-//                        matriz[opcaoMenu][1] + " para " + matriz[opcaoMenu][3] +"\n******\n\nInforme o Valor para ser convertido");
-
-
-
                 while (true) {
                     System.out.println("\n******\nSerá convertido para \n" +
                             opcaoMenu + ") de "+
@@ -175,7 +169,6 @@ public class Main {
                     System.out.println( " de " + valorFormatado + " " + matriz[opcaoMenu][1]  +
                             " convertido para " +  matriz[opcaoMenu][3] + " " + conversion_result);
 
-                    System.out.println(url_final);
                     System.out.println("\n****");
                     Thread.sleep(8000);
 

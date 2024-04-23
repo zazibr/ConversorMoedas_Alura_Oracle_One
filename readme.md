@@ -4,7 +4,13 @@
 
 faz a Conversão de Moedas usando o site ExchangeRate-API
 hoje o projeto converte para as seguintes moedas
-- 
+- Dólar p/ Peso Argentino
+- Peso Argentino p/ Dólar
+- Real Brasileiro p/ Dólar
+- Dólar p/ Real Brasileiro
+- Dólar p/ Peso Colombiano
+- Peso Colombiano p/ Dólar
+
 
 ## Como configurar e executar o projeto
 
